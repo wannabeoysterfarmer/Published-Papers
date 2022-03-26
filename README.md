@@ -11,9 +11,9 @@ Arthroscopic Superior Capsular Reconstruction With Acellular Dermal Allograft Us
 William T. Pennington, M.D. Steven W. Chen, B.S., Brian A. Bartz, P.A.-C.,Joann M. Pauli, P.A.-C.
 https://www.arthroscopytechniques.org/article/S2212-6287(18)30153-1/fulltext
 
-Arthroscopic Superior Capsular Reconstruction With Acellular Dermal Allograft Using Push-In Anchors for Glenoid Fixation
-William T Pennington 1, Steven W Chen 2, Brian A Bartz 3, Joann M Pauli 1
-https://pubmed.ncbi.nlm.nih.gov/30899651/
+Superior Capsular Reconstruction With Arthroscopic Rotator Cuff Repair in a “Functional Biologic Augmentation” Technique to Treat Massive Atrophic Rotator Cuff Tears
+William T. Pennington, M.D.,a,b,∗ Steven W. Chen, B.S.,b,c Brian A. Bartz, P.A.-C.,a,b and Joann M. Pennington, P.A.-C.a
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6551542/
 
 Premier Approaches to Arthroscopic Rotator Cuff Repair
 (Premier Article - William T Pennington MD, Steven Chen)
